@@ -44,7 +44,7 @@ Untuk kolaborasi, kemitraan, atau pertanyaan bisnis, hubungi kami di:
 ## 🌍 Website
 [www.NexteraPrimeCorp.com](https://nexteraprimecorp.com) *(Coming Soon)*  
 Sementara itu, Anda dapat mengakses versi GitHub Pages:  
-👉 `https://<username>.github.io/NexteraPrimeCorp/`
+👉 `https://nexterafounder.github.io/NexteraPrimeCorp/
 
 ---
 
