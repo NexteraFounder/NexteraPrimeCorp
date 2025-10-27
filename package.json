@@ -1,0 +1,14 @@
+{
+  "name": "nexaai-web",
+  "version": "2.0.0",
+  "description": "NEXA AI - Nextera Prime Corporation (GPT-4 Futuristic Chat Bubble)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.1"
+  }
+}
